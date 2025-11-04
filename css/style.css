@@ -43,6 +43,12 @@
 .eight-2rem {
     line-height: 2rem;
 }
+.cross{
+    list-style-type: "\2733";
+}
+.check{
+    list-style-type: "\2713";
+}
 /*REGOLE PAGINA*/
 .body {
     background-color: blue;
@@ -76,9 +82,8 @@
 .button .add-selection {
     color: gray;
 }
-.main-list {
+.main-list {    
+    list-style-type: square;
     padding-left: 40px;
-    list-style-type:square;
     padding-bottom: 20px;
 }
-
