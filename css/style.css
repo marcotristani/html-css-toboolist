@@ -3,3 +3,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*CLASSI DI SERVIZIO*/
+.background-white {
+    background-color: white;
+}
+.font-roboto {
+    font-family: "Roboto", sans-serif;
+}
+
+/*REGOLE PAGINA*/
+.body {
+    background-color: rgb(31, 20, 95);
+}
+.welcome-bar {
+    padding-top: 10px;
+    padding-left: 20px;
+    height: 70px;   
+    line-height: 100%;
+}
+.title-welcome-bar {
+    display: inline;
+    vertical-align: middle;
+    font-weight: bold;
+}
+.logo-welcome-bar {
+    vertical-align: middle;
+}
