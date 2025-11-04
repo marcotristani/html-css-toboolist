@@ -10,10 +10,30 @@
 .font-roboto {
     font-family: "Roboto", sans-serif;
 }
-
+.color-white {
+    color: white;
+}
+.background-violet {
+    background-color: violet;
+}
+.background-yellow {
+    background-color: yellow;
+}
+.background-green {
+    background-color: green;
+}
+.background-pink {
+    background-color: pink;
+}
+.padding-5px {
+    padding: 5px;
+}
+.radius-10 {
+    border-radius: 10%;
+}
 /*REGOLE PAGINA*/
 .body {
-    background-color: rgb(31, 20, 95);
+    background-color: blue;
 }
 .welcome-bar {
     padding-top: 10px;
@@ -29,3 +49,18 @@
 .logo-welcome-bar {
     vertical-align: middle;
 }
+.main {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.button {
+    padding-bottom: 10px;
+    margin-bottom: 10px solid blue;
+}
+.button .add-selection {
+    color: gray;
+}
+
